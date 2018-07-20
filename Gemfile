@@ -72,3 +72,7 @@ group :development, :test do
 end
 
 gem 'carrierwave', '~> 0.11.2'
+gem 'mini_magick', '~> 4.8'
+gem 'stripe', '~> 3.17', '>= 3.17.2'
+gem 'trix', '~> 0.9.0'
+gem 'rails-erd', group: :development
