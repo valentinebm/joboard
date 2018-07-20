@@ -70,3 +70,5 @@ group :development, :test do
   gem 'guard'
   gem 'guard-livereload'
 end
+
+gem 'carrierwave', '~> 0.11.2'
